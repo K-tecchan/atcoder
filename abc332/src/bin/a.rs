@@ -8,7 +8,7 @@ fn main() {
     };
 
     let mut ans = 0;
-    for i in 0..n {
+    for _ in 0..n {
         input! {
             p: usize,
             q: usize,
